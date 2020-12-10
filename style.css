@@ -1,0 +1,39 @@
+#center-box{
+    background-color: darkblue;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center-item{
+    background-color: tan;
+    width: 100px;
+    height: 100px;
+}
+#navbar{
+    background-color: steelblue;
+    display: flex;
+    font-family:'Montserrat';
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+ul{
+    display: flex;
+    list-style-type: none;    
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+h1{
+    color: white;
+    width: 300px;
+}
+img{
+    width: 65px;
+}
